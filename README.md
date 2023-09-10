@@ -1,9 +1,5 @@
-# 4BIT_CPU
-4-bit computer designed in Logisim, built from the ground up with standard digital circuit components.
-
 # Custom 4-bit Computer
-
-An exploration in digital circuit design, meticulously architected and realized using Logisim. This repository stands as a testament to advanced digital circuit design principles, realized in a fully functional micro-computing system.
+4-bit computer designed in Logisim, built from the ground up with standard digital circuit components.
 
 ## 📌 Key Components & Features
 
