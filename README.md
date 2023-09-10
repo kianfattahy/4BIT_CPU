@@ -1,4 +1,4 @@
-# Custom 4-bit Computer
+# Custom 4-Bit Computer
 4-bit computer designed in Logisim, built from the ground up with standard digital circuit components.
 
 ![Screenshot 2023-09-10 at 2 01 08 PM 2](https://github.com/kianfattahy/4BIT_CPU/assets/94335877/3c16b51d-c733-4b7c-a8e1-a536016b213a)
