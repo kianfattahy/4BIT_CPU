@@ -2,7 +2,7 @@
 4-bit computer designed in Logisim, built from the ground up with standard digital circuit components.
 ![Screenshot 2023-09-10 at 2 01 08 PM 2](https://github.com/kianfattahy/4BIT_CPU/assets/94335877/3c16b51d-c733-4b7c-a8e1-a536016b213a)
 
-## 📌 Key Components & Features
+## Key Components & Features
 
 - **Address Registers**: Data storage and retrieval operations.
 - **Program Counter**: Systematically tracks instruction execution.
@@ -17,7 +17,7 @@
 - **Binary-to-Decimal Converter**: Converts binary outputs for enhanced readability.
 - **Nums Machine**: Displays computational results.
 
-## 🖥️ Getting Started
+## Getting Started
 
 To dive into the project, clone the repository and explore the Logisim files. Each component is modularly designed for easy understanding and modification.
 
