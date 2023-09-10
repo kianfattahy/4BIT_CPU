@@ -3,17 +3,16 @@
 
 ## 📌 Key Components & Features
 
-- **Address Registers**: Precision-engineered for data storage and retrieval operations.
+- **Address Registers**: Data storage and retrieval operations.
 - **Program Counter**: Systematically tracks instruction execution.
 - **MAR & MBR**: Core registers that manage memory interactions.
 - **Instruction Register (IR)**: Decodes and holds the active instruction.
 - **Control Unit**: Orchestrates harmonized operations across the architecture.
 - **4-bit RAM**: Optimized storage solution for 4-bit tasks.
-- **General-purpose Registers (R0 & R1)**: Versatile units for interim data.
+- **General-purpose Registers (R0 & R1)**: Temporary data registers.
 - **ALU Registers**: Interface with the Arithmetic Logic Unit for computational tasks.
 - **Status Register**: Provides insights into the system's operational state.
 - **Central Bus System**: Ensures fluid communication amongst components.
-- **D_Register**: Safeguards data integrity in transient operations.
 - **Binary-to-Decimal Converter**: Converts binary outputs for enhanced readability.
 - **Nums Machine**: Displays computational results.
 
